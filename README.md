@@ -53,19 +53,19 @@ Crie uma variável para armazenar o nome e a quantidade de experiència (XP) de 
 
 depois utilize uma estrutura de decisão para apresentar algumas das mensagens abaixo:
 
-Se XP for menor do que 1.000 = Ferro
-Se XP for entre 1001 e 2000 = Bronze
-Se XP for entre 2001 e 5000 = Prata 
-Se XP for entre 6001 e 7000 = Ouro
-Se XP for entre 7001 e 8000 = Platina 
-Se XP for entre 8001 e 9000 = Ascendente
-Se XP for entre 9001 e 10000 = Imortal
-Se XP for maior ou igual a 10001 = Radiante
+- [x] Se XP for menor do que 1.000 = Ferro
+- [x] Se XP for entre 1001 e 2000 = Bronze
+- [x] Se XP for entre 2001 e 5000 = Prata 
+- [x] Se XP for entre 6001 e 7000 = Ouro
+- [x] Se XP for entre 7001 e 8000 = Platina 
+- [x] Se XP for entre 8001 e 9000 = Ascendente
+- [x] Se XP for entre 9001 e 10000 = Imortal
+- [x] Se XP for maior ou igual a 10001 = Radiante
 
 saida
-Ao final deve se exibir uma mensagem:
+- [x] Ao final deve se exibir uma mensagem:
 
-O Heroi de nome{nome} está no nível de {nivel}
+- [x] O Heroi de nome{nome} está no nível de {nivel}
 
 Estrutura de código do desafio está no arquivo : desafio-dio.js
 As demais pastas estão os arquivos com o mesmo propósito do desfio mas estruturados de formas diferentes.
